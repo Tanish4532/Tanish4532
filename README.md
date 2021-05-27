@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **TechBlog**
 
-- 🌱 I’m currently learning **Backend ,Django**
+- 🌱 I’m currently learning **Backend ,Django,Flask**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
