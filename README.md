@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 💬 Ask me about **Python,HTML,CSS,JS,Bootstrap4,Flask,Web Scrapping**
+- 💬 Ask me about **ReactJS,MERN,Mongodb,Nodejs,Python,HTML,CSS,JS,Bootstrap4,Flask,Web Scrapping,PHP**
 
 - 📫 How to reach me **tanishpandey4532@gmail.com**
 
